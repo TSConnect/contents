@@ -1,3 +1,290 @@
+[
+   {
+      "date":"2/7/2024",
+      "location":"Tokyo, Japan"
+   },
+   {
+      "date":"2/8/2024",
+      "location":"Tokyo, Japan"
+   },
+   {
+      "date":"2/9/2024",
+      "location":"Tokyo, Japan"
+   },
+   {
+      "date":"2/10/2024",
+      "location":"Tokyo, Japan"
+   },
+   {
+      "date":"2/16/2024",
+      "location":"Melbourne, Australia"
+   },
+   {
+      "date":"2/17/2024",
+      "location":"Melbourne, Australia"
+   },
+   {
+      "date":"2/18/2024",
+      "location":"Melbourne, Australia"
+   },
+   {
+      "date":"2/23/2024",
+      "location":"Sydney, Australia"
+   },
+   {
+      "date":"2/24/2024",
+      "location":"Sydney, Australia"
+   },
+   {
+      "date":"2/25/2024",
+      "location":"Sydney, Australia"
+   },
+   {
+      "date":"2/26/2024",
+      "location":"Sydney, Australia"
+   },
+   {
+      "date":"3/2/2024",
+      "location":"Singapore"
+   },
+   {
+      "date":"3/3/2024",
+      "location":"Singapore"
+   },
+   {
+      "date":"3/4/2024",
+      "location":"Singapore"
+   },
+   {
+      "date":"3/7/2024",
+      "location":"Singapore"
+   },
+   {
+      "date":"3/8/2024",
+      "location":"Singapore"
+   },
+   {
+      "date":"3/9/2024",
+      "location":"Singapore"
+   },
+   {
+      "date":"5/9/2024",
+      "location":"Paris, France"
+   },
+   {
+      "date":"5/10/2024",
+      "location":"Paris, France"
+   },
+   {
+      "date":"5/11/2024",
+      "location":"Paris, France"
+   },
+   {
+      "date":"5/12/2024",
+      "location":"Paris, France"
+   },
+   {
+      "date":"5/17/2024",
+      "location":"Stockholm, Sweden"
+   },
+   {
+      "date":"5/18/2024",
+      "location":"Stockholm, Sweden"
+   },
+   {
+      "date":"5/19/2024",
+      "location":"Stockholm, Sweden"
+   },
+   {
+      "date":"5/24/2024",
+      "location":"Lisbon, Portugal"
+   },
+   {
+      "date":"5/25/2024",
+      "location":"Lisbon, Portugal"
+   },
+   {
+      "date":"5/30/2024",
+      "location":"Madrid, Spain"
+   },
+   {
+      "date":"6/2/2024",
+      "location":"Lyon, France"
+   },
+   {
+      "date":"6/3/2024",
+      "location":"Lyon, France"
+   },
+   {
+      "date":"6/7/2024",
+      "location":"Edinburgh, United Kingdom"
+   },
+   {
+      "date":"6/8/2024",
+      "location":"Edinburgh, United Kingdom"
+   },
+   {
+      "date":"6/9/2024",
+      "location":"Edinburgh, United Kingdom"
+   },
+   {
+      "date":"6/13/2024",
+      "location":"Liverpool, United Kingdom"
+   },
+   {
+      "date":"6/14/2024",
+      "location":"Liverpool, United Kingdom"
+   },
+   {
+      "date":"6/15/2024",
+      "location":"Liverpool, United Kingdom"
+   },
+   {
+      "date":"6/18/2024",
+      "location":"Cardiff, United Kingdom"
+   },
+   {
+      "date":"6/21/2024",
+      "location":"London, United Kingdom"
+   },
+   {
+      "date":"6/22/2024",
+      "location":"London, United Kingdom"
+   },
+   {
+      "date":"6/23/2024",
+      "location":"London, United Kingdom"
+   },
+   {
+      "date":"6/28/2024",
+      "location":"Dublin, Ireland"
+   },
+   {
+      "date":"6/29/2024",
+      "location":"Dublin, Ireland"
+   },
+   {
+      "date":"6/30/2024",
+      "location":"Dublin, Ireland"
+   },
+   {
+      "date":"7/4/2024",
+      "location":"Amsterdam, Netherlands"
+   },
+   {
+      "date":"7/5/2024",
+      "location":"Amsterdam, Netherlands"
+   },
+   {
+      "date":"7/6/2024",
+      "location":"Amsterdam, Netherlands"
+   },
+   {
+      "date":"7/9/2024",
+      "location":"Zurich, Switzerland"
+   },
+   {
+      "date":"7/10/2024",
+      "location":"Zurich, Switzerland"
+   },
+   {
+      "date":"7/13/2024",
+      "location":"Milan, Italy"
+   },
+   {
+      "date":"7/14/2024",
+      "location":"Milan, Italy"
+   },
+   {
+      "date":"7/17/2024",
+      "location":"Gelsenkirchen, Germany"
+   },
+   {
+      "date":"7/18/2024",
+      "location":"Gelsenkirchen, Germany"
+   },
+   {
+      "date":"7/19/2024",
+      "location":"Gelsenkirchen, Germany"
+   },
+   {
+      "date":"7/23/2024",
+      "location":"Hamburg, Germany"
+   },
+   {
+      "date":"7/24/2024",
+      "location":"Hamburg, Germany"
+   },
+   {
+      "date":"7/27/2024",
+      "location":"Munich, Germany"
+   },
+   {
+      "date":"7/28/2024",
+      "location":"Munich, Germany"
+   },
+   {
+      "date":"8/1/2024",
+      "location":"Warsaw, Poland"
+   },
+   {
+      "date":"8/2/2024",
+      "location":"Warsaw, Poland"
+   },
+   {
+      "date":"8/3/2024",
+      "location":"Warsaw, Poland"
+   },
+   {
+      "date":"8/8/2024",
+      "location":"Viena, Austria"
+   },
+   {
+      "date":"8/9/2024",
+      "location":"Viena, Austria"
+   },
+   {
+      "date":"8/10/2024",
+      "location":"Viena, Austria"
+   },
+   {
+      "date":"8/15/2024",
+      "location":"London, United Kingdom"
+   },
+   {
+      "date":"8/16/2024",
+      "location":"London, United Kingdom"
+   },
+   {
+      "date":"8/17/2024",
+      "location":"London, United Kingdom"
+   },
+   {
+      "date":"10/18/2024",
+      "location":"Miami, Florida, USA"
+   },
+   {
+      "date":"10/19/2024",
+      "location":"Miami, Florida, USA"
+   },
+   {
+      "date":"10/20/2024",
+      "location":"Miami, Florida, USA"
+   },
+   {
+      "date":"10/25/2024",
+      "location":"New Orleans, Louisiana, USA"
+   },
+   {
+      "date":"10/26/2024",
+      "location":"New Orleans, Louisiana, USA"
+   },
+   {
+      "date":"10/27/2024",
+      "location":"New Orleans, Louisiana, USA"
+   },
+   {
+      "date":"11/1/2024",
       "location":"Indianapolis, Indiana, USA"
    },
    {
