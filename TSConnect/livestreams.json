@@ -1,14 +1,6 @@
 [
   {
-    "name": "Watch on CBS",
-    "url": "https://www.cbs.com/live-tv/stream/tveverywhere/"
-  },
-  {
-    "name": "Stream on Paramont+",
-    "url": "https://www.paramountplus.com/shows/nfl-on-cbs/?ftag=PPM-03-10bja5g"
-  },
-  {
-    "name": "Watch on official NFL App",
-    "url": "https://www.nfl.com/apps/?icampaign=mob-nav-ctc-SB_Waystowatch"
+    "name": "Folkleric",
+    "url": "https://www.twitch.tv/folkleric"
   }
 ]
